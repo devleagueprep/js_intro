@@ -4,7 +4,7 @@
 
 // Add a single line comment next to the code below:
 
-var today = "Monday";
+var today = "Wednesday";
 
 // Next, using the multiple line comments, comment out the following code:
 
